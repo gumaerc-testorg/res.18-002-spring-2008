@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: "Other MATLAB\xAE Resources at MIT"
 uid: 4ebd3cc6-69a0-551c-5da6-7211a532469f
 ---

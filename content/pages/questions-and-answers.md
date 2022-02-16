@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Questions and Answers
 uid: 1e04a754-a09b-18e0-13ca-4b11d93889d7
 ---
