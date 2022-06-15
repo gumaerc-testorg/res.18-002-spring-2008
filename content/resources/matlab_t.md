@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-002-introduction-to-matlab-spring-2008/7d43b00a49875dcd3470ad05c5737351_matlab_t.pdf
+file: /courses/res-18-002-introduction-to-matlab-spring-2008/7d43b00a49875dcd3470ad05c5737351_matlab_t.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

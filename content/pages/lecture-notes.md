@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'Lecture 1: Introduction to MATLAB Basics, Lecture 2: Matrices, Lecture
+  3: Basic Tools, Lecture 4: Flow Control, Lecture 5: Defining Functions, and Lecture
+  6: Functions and Logic.'
 learning_resource_types:
 - Lecture Notes
 ocw_type: SupplementalResourceSection

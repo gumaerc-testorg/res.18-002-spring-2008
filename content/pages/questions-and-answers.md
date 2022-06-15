@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Questions and answers.
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Questions and Answers
