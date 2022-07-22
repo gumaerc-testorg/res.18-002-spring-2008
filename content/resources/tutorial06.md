@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-18-002-introduction-to-matlab-spring-2008/d0f829c8515d31c9ed8a2f552892eeaa_tutorial06.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: "Other MATLAB\xAE Resources at MIT"
 parent_type: SupplementalResourceSection
