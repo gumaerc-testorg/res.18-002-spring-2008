@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-002-introduction-to-matlab-spring-2008/1bb63e29935862fdd679b1b384862cb2_Project.pdf
+file_size: 140757
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
