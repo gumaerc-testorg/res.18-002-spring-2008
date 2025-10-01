@@ -9,9 +9,9 @@ uid: 4ebd3cc6-69a0-551c-5da6-7211a532469f
 ---
 MATLAB Information from course 18.06, [Linear Algebra](/courses/18-06-linear-algebra-spring-2010/)
 
-- [Best Guide to MATLAB](http://web.mit.edu/18.06/www/MATLAB/guide.html)
-- Short MATLAB Tutorial ({{% resource_link "7d43b00a-4987-5dcd-3470-ad05c5737351" "PDF" %}}) and Cool [MATLAB demos](http://www.mathworks.com/products/demos/) by Mathworks
-- [MATLAB Teaching Codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)
+- {{% resource_link "3503b0fa-2c6e-4c1f-883a-4d3832fab30c" "Best Guide to MATLAB" %}}
+- Short MATLAB Tutorial ({{% resource_link "7d43b00a-4987-5dcd-3470-ad05c5737351" "PDF" %}}) and Cool {{% resource_link "7096ae49-a6e3-4221-8a7f-f4a1be8e872c" "MATLAB demos" %}} by Mathworks
+- {{% resource_link "8a4fc8af-fd05-4ba8-bfb0-7194c3020131" "MATLAB Teaching Codes" %}}
 
 MATLAB Tutorial from course 10.34, [Numerical Methods Applied to Chemical Engineering](/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005)
 
